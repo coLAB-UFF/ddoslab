@@ -28,8 +28,8 @@ contact_settings:
   email_address: ''
   form_action: 'https://formspree.io/f/xqknovgn'
   confirmation_url: '/thanks'
-  email_subject: 'Contact form submission'
-  send_button_text: 'Get in Touch'
+  email_subject: '[DDoS Lab] Fale Conosco'
+  send_button_text: 'Fale Conosco'
 
 social_settings:
   facebook_url: ''
