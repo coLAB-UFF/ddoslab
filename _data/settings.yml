@@ -8,9 +8,9 @@ header_settings:
 
 menu_settings:
   menu_items:
-    - title: 'Projects'
+    - title: 'Relatórios'
       url: '/'
-    - title: 'Blog'
+    - title: 'Datasets'
       url: '/blog/'
 
 footer_settings:
