@@ -1,9 +1,16 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32">
-  <g fill="none" fill-rule="evenodd">
-    <rect width="32" height="32" fill="#4C60E6" opacity=".08" rx="6"/>
-    <g stroke="#4C60E6" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" transform="translate(12 11)">
-      <path d="M4.35714286,-1 L4.35714286,10.4285714" transform="rotate(135 4.357 4.714)"/>
-      <path d="M4.35714286,-1 L4.35714286,10.4285714" transform="rotate(-135 4.357 4.714)"/>
-    </g>
-  </g>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 24.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Camada_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 32 32" style="enable-background:new 0 0 32 32;" xml:space="preserve">
+<style type="text/css">
+	.st0{opacity:8.000000e-02;fill-rule:evenodd;clip-rule:evenodd;fill:#4C60E6;enable-background:new    ;}
+	.st1{fill:none;stroke:#FFB351;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;}
+</style>
+<g>
+	<path class="st0" d="M6,0h20c3.3,0,6,2.7,6,6v20c0,3.3-2.7,6-6,6H6c-3.3,0-6-2.7-6-6V6C0,2.7,2.7,0,6,0z"/>
+	<g transform="translate(12 11)">
+		<path class="st1" d="M8.4,8.8L0.3,0.7"/>
+		<path class="st1" d="M0.3,8.8l8.1-8.1"/>
+	</g>
+</g>
 </svg>
