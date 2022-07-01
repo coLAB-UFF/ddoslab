@@ -1,8 +1,8 @@
 ---
-title: Mobile app
-subtitle: High-fidelity mobile app designs for a super awesome social media company.
-date: 2019-07-24 00:00:00
-description: This is a demo post that shows what you can do inside portfolio and blog posts. We’ve included everything you need to create engaging posts and case studies to show off your work in a beautiful way.
+title: TikTok e Polarização Política
+subtitle: Viktor Chagas e Luiza de Mello Stefano
+date: 2022-07-07 00:00:00
+description: Este relatório analisa como os políticos utilizam e incorporam o TikTok em suas respectivas estratégias de comunicação política, que tipo de conteúdo produzem, e que resultados concretos, em termos de alcance e engajamento, eles obtêm, bem como as diferenças de apropriação entre políticos de esquerda e de direita.
 featured_image: demo.jpg
 accent_color: '#FFB351'
 gallery_images:
