@@ -8,8 +8,8 @@ featured_image: /images/social.jpg
 <div class="page-blog">
 	<header class="header--single">
 		<div class="wrap">
-			<h1 class="header__title">Blog</h1>
-			<p class="header__subtitle subtitle--light">Find out what I've been up through my latest photo blogging adventures.</p>
+			<h1 class="header__title">Datasets</h1>
+			<p class="header__subtitle subtitle--light">Navegue pelos datasets compartilhados pelo DDoS Lab. Lembre-se de, ao utilizar esses dados, sempre citar o nosso projeto como fonte.</p>
 		</div>
 	</header>
 
@@ -32,7 +32,7 @@ featured_image: /images/social.jpg
 								<h2 class="post__title h4"><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h2>
 								<p class="post__subtitle">{{ post.subtitle }}</p>
 								<p class="post__description">{{ post.description }}</p>
-								<a href="{{ post.url | relative_url }}" class="post__link button--text--accent --right">Keep Reading</a>
+								<a href="{{ post.url | relative_url }}" class="post__link button--text--accent --right">Continue Lendo</a>
 							</div>
 						</div>
 					</div>
@@ -51,11 +51,11 @@ featured_image: /images/social.jpg
 		<div class="wrap">
 			{% if paginator.previous_page %}
 			<a href="{{ paginator.previous_page_path | relative_url }}"
-				class="button--text--accent --left pagination__prev">Newer Posts</a>
+				class="button--text--accent --left pagination__prev">Posts Recentes</a>
 			{% endif %}
 			{% if paginator.next_page %}
 			<a href="{{ paginator.next_page_path | relative_url }}"
-				class="button--text--accent --right pagination__next">Older Posts</a>
+				class="button--text--accent --right pagination__next">Posts Antigos</a>
 			{% endif %}
 		</div>
 	</section>
