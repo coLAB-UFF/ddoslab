@@ -5,78 +5,24 @@ description: Este dataset contém um relatório executivo, um conjunto de gráfi
 featured_image: '/images/data_amz.png'
 ---
 
-This page is a demo that shows everything you can do inside portfolio and blog posts.
+Este dataset contém um relatório executivo, um conjunto de gráficos e uma série de tabelas de contigência referentes ao monitoramento de 60 grupos de discussão política de perfil bolsonarista no WhatsApp.
 
-We've included everything you need to create engaging posts about your work, and show off your case studies in a beautiful way.
+![](/images/data_amz.png)
 
-![](/images/demo.jpg)
+## Metodologia
 
-**Obviously,** we’ve styled up *all the basic* text formatting options [available in markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).
+A análise de dados no ambiente do WhatsApp possui ao menos três peculiaridades importantes em relação a outras plataformas. A primeira delas é expressa pelo fato de que o WhatsApp é uma rede de comunicação privada. Os dados que circulam pelo aplicativo são, portanto, igualmente privados, e não podem ser tratados como dados públicos, como aqueles obtidos a partir de outras redes. Este complicador resulta não apenas em uma dificuldade em se identificar com clareza atores que tenham participação no debate público, mas na própria divulgação de dados contidos em relatórios de ações de monitoramento como o presente. Em resumo, diferentemente do que ocorre no Twitter, no Facebook, no YouTube ou no Instagram, no WhatsApp, não há, em princípio, como aferir com acurácia se um usuário é uma personalidade pública ou não, e tampouco é possível divulgar dados privados referentes a esses indivíduos.
 
-You can create lists:
+Além disso, por conta do foco no serviço de mensageria privada, o WhatsApp fornece poucos metadados para pesquisa. O monitoramento, em princípio, é capaz de levantar apenas as informações básicas referentes ao remetente da mensagem, ao grupo destinatário, à data de publicação e ao conteúdo em si publicado. Não há indicadores sobre a circulação ou compartilhamento das mensagens, como o número de ​likes e ​shares presente em outras redes, não há indicadores georreferenciados precisos sobre a procedência das mensagens, apenas o indicativo do código de discagem direta dos telefones, e não há também indicadores sobre como os usuários estão associados uns aos outros na rede. Todos esses parâmetros são comuns em outros ambientes, mas não fornecidos pelo WhatsApp, o que caracteriza uma idiossincrasia deste tipo de monitoramento.
 
-* Simple bulleted lists
-* Like this one
-* Are cool
+Por fim, justamente por se tratar de um ambiente opaco, conforme descrito acima, todo e qualquer levantamento de dados a partir do WhatsApp se constitui a partir de uma amostra não probabilística, com base em um conjunto de usuários e grupos monitorados pelo pesquisador a partir de critérios definidos previamente em relação à investigação. No presente caso, a amostra é constituída exclusivamente por grupos de apoio ao Governo Bolsonaro, o que significa, em última instância, que não é possível identificar, com base nos dados que se apresentam, uma polarização expressa entre as narrativas cultivadas por esses usuários e nem sequer considerar esta amostra como representativa de toda a rede bolsonarista no WhatsApp, ainda que haja indícios suficientes para permitir a extrapolação de alguns dos resultados apresentados para os grupos de apoiadores do governo em geral.
 
-And:
+De modo prático, para este relatório, foram monitorados cerca de 60 grupos públicos de discussão política no WhatsApp que apresentam abrangência nacional e indicam explicitamente apoio ao Governo Bolsonaro. Os grupos foram selecionados por meio de uma metodologia prospectiva de bola-de-neve, baseada em uma técnica de pesquisa encoberta, em que os sujeitos pesquisados não têm acesso aos parâmetros de investigação, ainda que tenham seus dados privados inteiramente resguardados. O conjunto de grupos selecionados tem característica de apoio ao governo e abrangência nacional. Ele reúne aproximadamente 4 mil usuários. Os dados coletados referem-se aos meses de agosto a outubro de 2020, e reúnem um universo de pouco mais de 429 mil mensagens trocadas nesse intervalo.
 
-1. Numbered lists
-2. Like this other one
-3. Are great too
-
-You can also add blockquotes, which are shown at a larger width to help break up the layout and draw attention to key parts of your content:
-
-> “Simple can be harder than complex: You have to work hard to get your thinking clean to make it simple. But it’s worth it in the end because once you get there, you can move mountains.”
-
-The theme also supports markdown tables:
-
-| Item                 | Author        | Supports tables? | Price |
-|----------------------|---------------|------------------|-------|
-| Duet Jekyll Theme    | Jekyll Themes | Yes              | $49   |
-| Index Jekyll Theme   | Jekyll Themes | Yes              | $49   |
-| Journal Jekyll Theme | Jekyll Themes | Yes              | $49   |
-
-And footnotes[^1], which link to explanations[^2] at the bottom of the page[^3].
-
-[^1]: Beautiful modern, minimal theme design.
-[^2]: Powerful features to show off your work.
-[^3]: Maintained and supported by the theme developer.
-
-You can throw in some horizontal rules too:
-
----
-
-#### Image galleries
-
-Here's a really neat custom feature we added – galleries:
-
-{% include post-components/gallery.html
-	columns = 2
-	full_width = true
-	images = "/images/demo.jpg,/images/demo.jpg,/images/demo.jpg,/images/demo.jpg,
-	"
-%}
-
-Inspired by the Galleries feature from WordPress, we've made it easy to create grid layouts for your images. Just use a simple Liquid snippet in your post to create a masonry grid image layout:
-
-{% raw %}
-```liquid
-{% include post-components/gallery.html
-	columns = 2
-	full_width = true
-	images = "/images/demo.jpg,/images/demo.jpg,/images/demo.jpg,/images/demo.jpg,
-	"
-%}
-```
-{% endraw %}
-
-*See what we did there? Code and syntax highlighting is built-in too!*
-
-Change the number inside the 'columns' setting to create different types of gallery for all kinds of purposes. You can even click on each image to seamlessly enlarge it on the page.
+A partir deste corpus inicial, definiu-se um conjunto de palavras-chaves que orientasse um recorte específico pela temática ambiental. As palavras-chaves escolhidas foram: ​amazônia​, ​mata atlântica,​ ​pantanal​, ​cerrado​, ​floresta,​ ​meio ambiente,​ ​queimada,​ ​incêndio​, ​greenpeace​, ​wwf e ​aquecimento.​ Com base nesses critérios, chegou-se a um total de 3.611 mensagens, trocadas por 1,2 mil usuários. Essa amostra representa 0,8% do total de mensagens enviadas no mesmo período. A baixa incidência reflete a ausência da agenda ambiental no debate travado por usuários da rede bolsonarista. Seja por desinteresse ou estratégia deliberada de silenciamento, mesmo em um contexto de crise ambiental, há pouca ou nenhuma discussão sobre o tema.
 
 
-#### Image carousels
+## Imagens
 
 Here's another gallery with only one column, which creates a carousel slide-show instead.
 
@@ -85,22 +31,18 @@ A nice little feature: the carousel only advances when it is in view, so your vi
 {% include post-components/gallery.html
 	columns = 1
 	full_width = true
-	images = "/images/demo.jpg,/images/demo.jpg,/images/demo.jpg
+	images = "/images/data_amz_slide2.png,/images/data_amz_slide3.png,/images/data_amz_slide4.png,data_amz_slide5.png
 	"
 %}
 
-#### What about videos?
+## Reflexões para Ações Futuras
 
-Videos are an awesome way to show off your work in a more engaging and personal way, and we’ve made sure they work great on our themes. Just paste an embed code from YouTube or Vimeo, and the theme makes sure it displays perfectly:
+● O enfrentamento à desinformação tem sido pautado por experiências de fact-checking que investem em estratégias de checagem de dados e relatos isoladamente, uma abordagem pouco produtiva, e pouco amigável em relação às audiências submetidas a ​fake news​. Se um determinado dado é improcedente, o contexto narrativo continua lhe conferindo legitimidade. Além disso, o principal problema dos fact-checkers reside na confiança depositada de que (1) a audiência buscará proativamente a checagem das informações e (2) esta mesma audiência não compartilhará dados que sabe serem improcedentes, o que, naturalmente, nem sempre corresponde à realidade, em especial em ambientes fortemente ideológicos, como é o caso dos grupos de discussão política no WhatsApp. Nesse sentido, observar os elementos narratológicos dos conteúdos compartilhados pode permitir a adoção de padrões similares por iniciativas de difusão de contra-desinformação. Mensagens de interesse humano, com informações factuais, redigidas a partir de textos longos ou áudios em primeira pessoa, com forte apelo ao interlocutor, de autoria anônima ou eventualmente com personagens apresentados como autoridades no campo podem constituir uma frente importante de combate à desinformação no WhatsApp. A estrutura da rede deve ser também levada em consideração. O modelo de ​broadcasting adotado por algumas iniciativas tem alcance tímido e pouco capilarizado, se comparado com a topologia diversa e capilarizada da rede bolsonarista.
 
-{% include post-components/video.html
-	url = "https://player.vimeo.com/video/270725085?color=6c6e95&title=0&byline=0"
-	full_width = true
-%}
+● O monitoramento sistemático dos principais atores difusores de mensagens nos grupos é fundamental para mapear seus interesses e agendas. Nesse sentido, um mapa longitudinal é capaz de fornecer detalhes precisos sobre a atuação desses agentes e suas estratégias de coordenação.
 
-### Pretty cool, huh?
+● Uma análise comparativa e sistêmica entre diferentes plataformas é fundamental para se estabelecer ações de enfrentamento mais eficazes. Ao invés de avaliar separadamente o debate em cada uma das plataformas, é importante cruzar dados para que seja possível identificar padrões de comportamento. No caso do WhatsApp, por exemplo, a plataforma se constitui, em última instância, como um hub para outros ambientes, como YouTube e Twitter. Uma análise comparativa seria capaz de elucidar, entre outros detalhes, se as séries históricas do fluxo de atividade nas plataformas coincide ou tem alguma correlação, se há repercussão direta entre chamados à ação no WhatsApp e campanhas performadas no Twitter, e muito mais.
 
-We've packed this theme with powerful features to show off your work.
-Why not put them to use on your new website?
+● Conquanto no presente relatório, não haja menção direta a conteúdos imagéticos e de humor compartilhados nos grupos que integram a rede bolsonarista no WhatsApp, observar a circulação desses conteúdos é vital para compreender como a retórica da desinformação é construída e de que elementos lúdicos se apropria. Nesse sentido, os memes são parte importante desse ecossistema e merecem uma análise à parte.
 
-<a href="https://jekyllthemes.io/theme/made-portfolio-jekyll-theme" class="button--fill">Get This Theme</a>
+● Por fim, o monitoramento deve guiar e orientar ações de advocacy não apenas junto ao poder público mas também junto às próprias plataformas, no sentido de conter eventuais abusos, sobretudo no que tange à disseminação da desinformação política e do discurso de ódio contra minorias, como os povos indígenas que habitam a Amazônia.
