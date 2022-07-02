@@ -1,8 +1,8 @@
 ---
-title: Demo post
+title: Dataset Amazônia segundo o WhatsApp bolsonarista
 date: 2019-06-30 00:00:00
-description: This is a demo post that shows what you can do inside portfolio and blog posts. We’ve included everything you need to create engaging posts and case studies to show off your work in a beautiful way.
-featured_image: '/images/demo.jpg'
+description: Este dataset contém um relatório executivo, um conjunto de gráficos e uma série de tabelas de contigência referentes ao monitoramento de 60 grupos de discussão política de perfil bolsonarista no WhatsApp.
+featured_image: '/images/data_amz.png'
 ---
 
 This page is a demo that shows everything you can do inside portfolio and blog posts.
