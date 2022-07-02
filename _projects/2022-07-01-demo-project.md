@@ -6,6 +6,7 @@ description: Este relatório analisa como os políticos utilizam e incorporam o 
 featured_image: data_tiktok_report.png
 accent_color: '#FFB351'
 gallery_images:
+  - data_tiktok_report.png
   - data_tiktok_report2.png
   - data_tiktok_report3.png
   - data_tiktok_report4.png
