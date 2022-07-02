@@ -1,7 +1,7 @@
 ---
 title: TikTok e Polarização Política
 subtitle: TikTok e Polarização Política. Relatório de Viktor Chagas e Luiza de Mello Stefano
-date: 2022-07-07 00:00:00
+date: 2022-07-01 00:00:00
 description: Este relatório analisa como os políticos utilizam e incorporam o TikTok em suas respectivas estratégias de comunicação política, que tipo de conteúdo produzem, e que resultados concretos, em termos de alcance e engajamento, eles obtêm, bem como as diferenças de apropriação entre políticos de esquerda e de direita.
 featured_image: demo.jpg
 accent_color: '#FFB351'
