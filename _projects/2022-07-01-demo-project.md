@@ -2,7 +2,7 @@
 title: TikTok e Polarização Política
 subtitle: TikTok e Polarização Política. Relatório de Viktor Chagas e Luiza de Mello Stefano
 date: 2022-07-01 00:00:00
-description: Este relatório analisa como os políticos utilizam e incorporam o TikTok em suas respectivas estratégias de comunicação política, que tipo de conteúdo produzem, e que resultados concretos, em termos de alcance e engajamento, eles obtêm, bem como as diferenças de apropriação entre políticos de esquerda e de direita.
+description: Como políticos de direita e de esquerda utilizam o TikTok no Brasil? Quais são as suas principais estratégias de comunicação política e em que resultados isso se reverte em termos de engajamento? Direita e esquerda assumem comportamentos distintos na plataforma? Os conteúdos publicados por políticos no TikTok são mesmo apolíticos? Essas são algumas das questões que este relatório procura responder.
 featured_image: data_tiktok_report.jpg
 accent_color: '#FFB351'
 gallery_images:
@@ -12,6 +12,14 @@ gallery_images:
   - data_tiktok_report4.jpg
   - data_tiktok_report5.jpg
 ---
+
+![](/images/data_tiktok_report.jpg)
+
+> Como políticos de direita e de esquerda utilizam o TikTok no Brasil? Quais são as suas principais estratégias de comunicação política e em que resultados isso se reverte em termos de engajamento? Direita e esquerda assumem comportamentos distintos na plataforma? Os conteúdos publicados por políticos no TikTok são mesmo apolíticos? Essas são algumas das questões que este relatório procura responder.
+
+<a href="https://dx.doi.org/10.56465/ddoslab.2022.001">Ler o relatório completo</a>
+
+![](/images/doi_logo.png | width=100) doi:10.56465/ddoslab.2022.001
 
 This page is a demo that shows everything you can do inside portfolio and blog posts.
 
