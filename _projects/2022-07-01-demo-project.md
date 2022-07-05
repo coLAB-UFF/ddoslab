@@ -13,7 +13,7 @@ gallery_images:
   - data_tiktok_report5.jpg
 ---
 
-[![DOI:10.56465/ddoslab.2022.001](http://img.shields.io/badge/DOI-10.56465/ddoslab.2022.001-FFB351.svg) height="20"](https://dx.doi.org/10.56465/ddoslab.2022.001)
+[![DOI:10.56465/ddoslab.2022.001](http://img.shields.io/badge/DOI-10.56465/ddoslab.2022.001-FFB351.svg)](https://dx.doi.org/10.56465/ddoslab.2022.001)
 
 ![](/images/data_tiktok_report.jpg)
 
@@ -43,18 +43,15 @@ Analisar como direita e esquerda utilizam o TikTok pode elucidar uma série de a
 
 ### Notas Metodológicas
 
+Ooo
 
-
+---
 
 ### Créditos
 
-Autores: **Viktor Chagas**<a href="https://orcid.org/0000-0001-5727-2427">
-<img alt="ORCID logo" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png" width="16" height="16" />
-https://orcid.org/0000-0001-2345-6789
-</a> e **Luiza de Mello Stefano**<a href="https://orcid.org/0000-0001-5727-2427">
-<img alt="ORCID logo" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png" width="16" height="16" />
-https://orcid.org/0000-0001-2345-6789
-</a>
+Autores: **Viktor Chagas**<a href="https://orcid.org/0000-0002-1806-6062">
+<img alt="ORCID logo" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png" width="16" height="16" /></a> e **Luiza de Mello Stefano**<a href="https://orcid.org/0000-0002-3250-8437">
+<img alt="ORCID logo" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png" width="16" height="16" /></a>
 Ilustrações: **Daniel Rios**
 Diagramação: **Daniel Rios**
 
@@ -62,7 +59,21 @@ Diagramação: **Daniel Rios**
 
 **Luiza de Mello** Stefano é doutoranda no Programa de Pós-Graduação em Comunicação da Universidade Federal Fluminense (UFF). Mestre em Comunicação pelo PPGCOM/UFJF (2019). Jornalista formada pela Universidade Federal de Juiz de Fora (2015). Especialista em Comunicação e Marketing em Mídias Digitais. Pesquisadora associada dos grupos de pesquisa TeleVisões e Laboratório de Comunicação, Culturas Políticas e Economia da Colaboração (coLAB).
 
+---
 
+### Como citar este relatório
+
+Em estudos acadêmicos:
+
+```
+CHAGAS, V.; STEFANO, L. TikTok e polarização política no Brasil. Niterói: coLAB/UFF, 2022. 66 p. (Série DDoS Lab). doi:10.56465/ddoslab.2022.001
+```
+
+Na imprensa e em outras fontes:
+
+```
+Relatório "TikTok e Polarização Política no Brasil", de autoria de Viktor Chagas e Luiza de Mello Stefano, pesquisadores do Laboratório de Pesquisa em Comunicação, Culturas Políticas e Economia da Colaboração (coLAB) da Universidade Federal Fluminense.
+```
 
 ---
 
