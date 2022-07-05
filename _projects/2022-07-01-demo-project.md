@@ -65,15 +65,13 @@ Diagramação: **Daniel Rios**
 
 Em estudos acadêmicos:
 
-```
-CHAGAS, V.; STEFANO, L. TikTok e polarização política no Brasil. Niterói: coLAB/UFF, 2022. 66 p. (Série DDoS Lab). doi:10.56465/ddoslab.2022.001
-```
+    CHAGAS, V.; STEFANO, L. TikTok e polarização política no Brasil. Niterói: coLAB/UFF, 2022. 66 p. (Série DDoS Lab). doi:10.56465/ddoslab.2022.001    
 
 Na imprensa e em outras fontes:
 
-```
+~~~
 Relatório "TikTok e Polarização Política no Brasil", de autoria de Viktor Chagas e Luiza de Mello Stefano, pesquisadores do Laboratório de Pesquisa em Comunicação, Culturas Políticas e Economia da Colaboração (coLAB) da Universidade Federal Fluminense.
-```
+~~~
 
 ---
 
