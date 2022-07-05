@@ -32,20 +32,12 @@ Analisar como direita e esquerda utilizam o TikTok pode elucidar uma série de a
 | Item                 | Author        |
 |----------------------|---------------|
 | Entre todos os partidos, o Partido dos Trabalhadores (PT) é aquele com maior número de políticos com contas no TikTok. Entretanto, há menos partidos de esquerda do que de direita com políticos presentes no TikTok    | Há quase duas vezes mais políticos de direita no TikTok em relação ao número de políticos de esquerda |
-| Index Jekyll Theme   | Jekyll Themes |
-| Journal Jekyll Theme | Jekyll Themes |
-| Index Jekyll Theme   | Jekyll Themes |
-| Journal Jekyll Theme | Jekyll Themes |
-| Index Jekyll Theme   | Jekyll Themes |
-| Journal Jekyll Theme | Jekyll Themes |
-| Index Jekyll Theme   | Jekyll Themes |
-| Journal Jekyll Theme | Jekyll Themes |
-| Index Jekyll Theme   | Jekyll Themes |
-| Journal Jekyll Theme | Jekyll Themes |
-| Index Jekyll Theme   | Jekyll Themes |
-| Journal Jekyll Theme | Jekyll Themes |
-| Index Jekyll Theme   | Jekyll Themes |
-| Journal Jekyll Theme | Jekyll Themes |
+| Políticos de esquerda tendem a publicar menos no TikTok do que políticos de centro e de direita   | Considerando apenas o Legislativo Federal, os políticos de direita são 57,5%, contra 34,3% de esquerda |
+| Políticos de esquerda tendem a ter um número inferior de seguidores e baixos índices de engajamento, se comparados aos políticos de direita   | Políticos de direita tendem a utilizar mais trilhas sonoras para dublagens e aproveitar melhor as funcionalidades e recursos da plataforma para alcançar maior alcance e engajamento |
+| Políticos de esquerda tendem a seguir proporcionalmente mais usuários e apresentar uma discrepância menor entre o número de seguidores e o número de seguidos, em comparação com os políticos de direita, que geralmente se caracterizam por uma postura de acumular mais seguidores do que seguir outros usuários | Políticos de direita articulam melhor suas bases de seguidores, já que tendem a  ter um número maior de visualizações em seus conteúdos quando dispõem de uma base maior de seguidores |
+| Políticos de esquerda tendem a receber menor quantidade de visualizações nos conteúdos publicados por eles   | Políticos de direita tendem estatisticamente a acumular mais seguidores e a receber mais curtidas em seus vídeos, ao passo que políticos de esquerda sofrem uma tendência inversa |
+| Políticos de esquerda tendem a valorizar mais conteúdos de natureza estritamente política, ao passo que políticos de direita fazem uso de uma retórica mais voltada para o entretenimento e o humor, desviando-se frequentemente de pautas públicas | Políticos de direita não parecem fazer muito investimento para receber mais curtidas em seus conteúdos. Por outro lado, eles costumam acumular um número bastante superior de visualizações, o que pode sugerir um papel ativo da filtragem algorítmica e do sistema de recomendações do TikTok ao indicar tais conteúdos aos usuários |
+| O relatório ainda analisou qualitativamente o perfil de quatro políticos com altos índices de engajamento no TikTok, dois de esquerda e dois de direita, a saber: Manuela d'Ávila e Carlos Zarattini; e Tiririca e Renan Bolsonaro.   | Tiririca é líder absoluto em diferentes métricas de engajamento da plataforma. Seu perfil, porém, não apresenta qualquer referência à sua atuação como deputado federal e se concentra na trajetória enquanto humorista |
 
 This page is a demo that shows everything you can do inside portfolio and blog posts.
 
