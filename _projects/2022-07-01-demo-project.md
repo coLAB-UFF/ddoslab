@@ -13,9 +13,9 @@ gallery_images:
   - data_tiktok_report5.jpg
 ---
 
-[![DOI:10.56465/ddoslab.2022.001](http://img.shields.io/badge/DOI-10.56465/ddoslab.2022.001-FFB351.svg#class1)](https://dx.doi.org/10.56465/ddoslab.2022.001)
+[![DOI:10.56465/ddoslab.2022.001](http://img.shields.io/badge/DOI-10.56465/ddoslab.2022.001-FFB351.svg)](https://dx.doi.org/10.56465/ddoslab.2022.001)
 
-![](/images/data_tiktok_report.jpg#class2)
+![](/images/data_tiktok_report.jpg)
 
 Como políticos de direita e de esquerda utilizam o TikTok no Brasil? Quais são as suas principais estratégias de comunicação política e em que resultados isso se reverte em termos de engajamento? Direita e esquerda assumem comportamentos distintos na plataforma? Os conteúdos publicados por políticos no TikTok são mesmo apolíticos? Essas são algumas das questões que este relatório procura responder.
 
@@ -50,7 +50,9 @@ Ooo
 ### Créditos
 
 Autores: **Viktor Chagas**<a href="https://orcid.org/0000-0002-1806-6062"><img alt="ORCID logo" style="width: 16px; height: 16px; max-width: none; display: inline; margin: 5px 0;" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png" width="16" height="16" />&nbsp;</a> e **Luiza de Mello Stefano**<a href="https://orcid.org/0000-0002-3250-8437"><img alt="ORCID logo" style="width: 16px; height: 16px; max-width: none; display: inline; margin: 5px 0;" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png" width="16" height="16" />&nbsp;</a>
+
 Ilustrações: **Daniel Rios**
+
 Diagramação: **Daniel Rios**
 
 **Viktor Chagas** é professor associado do Departamento de Estudos Culturais e Mídia e pesquisador do Programa de Pós-Graduação em Comunicação da Universidade Federal Fluminense (PPGCOM-UFF). É bolsista de produtividade em pesquisa (PQ-2) do Conselho Nacional de Desenvolvimento Científico e Tecnológico (CNPq) e bolsista Jovem Cientista do Nosso Estado da Fundação Carlos Chagas Filho de Amparo à Pesquisa do Estado do Rio de Janeiro (Faperj). É membro associado do Instituto Nacional de Ciência e Tecnologia em Democracia Digital (INCT.DD). Foi bolsista CNPq de Pós-Doutorado Junior em Comunicação e Cultura pela UFBA. Doutor em História, Política e Bens Culturais pelo Centro de Pesquisa e Documentação de História Contemporânea do Brasil da Fundação Getúlio Vargas (Cpdoc-FGV).
@@ -63,13 +65,15 @@ Diagramação: **Daniel Rios**
 
 Em estudos acadêmicos:
 
-`
+```
 CHAGAS, V.; STEFANO, L. TikTok e polarização política no Brasil. Niterói: coLAB/UFF, 2022. 66 p. (Série DDoS Lab). doi:10.56465/ddoslab.2022.001
-`
+```
 
 Na imprensa e em outras fontes:
 
-> ~~~ Relatório "TikTok e Polarização Política no Brasil", de autoria de Viktor Chagas e Luiza de Mello Stefano, pesquisadores do Laboratório de Pesquisa em Comunicação, Culturas Políticas e Economia da Colaboração (coLAB) da Universidade Federal Fluminense. ~~~
+```
+Relatório "TikTok e Polarização Política no Brasil", de autoria de Viktor Chagas e Luiza de Mello Stefano, pesquisadores do Laboratório de Pesquisa em Comunicação, Culturas Políticas e Economia da Colaboração (coLAB) da Universidade Federal Fluminense.
+```
 
 ---
 
