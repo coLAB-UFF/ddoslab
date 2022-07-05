@@ -29,7 +29,7 @@ Este relatório se baseia em uma amostra composta por 23.139 vídeos publicados 
 
 Analisar como direita e esquerda utilizam o TikTok pode elucidar uma série de aspectos relacionados às estratégias de adoção de plataformas digitais por atores políticos. Entre os principais resultados alcançados por este estudo, destacam-se:
 
-|                  |         |
+| Esquerda                 | Direita        |
 |----------------------|---------------|
 | Entre todos os partidos, o Partido dos Trabalhadores (PT) é aquele com maior número de políticos com contas no TikTok. Entretanto, há menos partidos de esquerda do que de direita com políticos presentes no TikTok    | Há quase duas vezes mais políticos de direita no TikTok em relação ao número de políticos de esquerda |
 | Políticos de esquerda tendem a publicar menos no TikTok do que políticos de centro e de direita   | Considerando apenas o Legislativo Federal, os políticos de direita são 57,5%, contra 34,3% de esquerda |
