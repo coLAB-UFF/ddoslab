@@ -95,5 +95,6 @@ Relatório "TikTok e Polarização Política no Brasil", de autoria de Viktor Ch
 	images = "https://raw.githubusercontent.com/coLAB-UFF/ddoslab/main/images/projects/data_tiktok_report2.jpg,
 	https://raw.githubusercontent.com/coLAB-UFF/ddoslab/main/images/projects/data_tiktok_report3.jpg,
 	https://raw.githubusercontent.com/coLAB-UFF/ddoslab/main/images/projects/data_tiktok_report4.jpg,
-	https://raw.githubusercontent.com/coLAB-UFF/ddoslab/main/images/projects/data_tiktok_report5.jpg"
+	https://raw.githubusercontent.com/coLAB-UFF/ddoslab/main/images/projects/data_tiktok_report5.jpg,
+	"
 %}
