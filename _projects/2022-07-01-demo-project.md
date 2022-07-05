@@ -13,7 +13,7 @@ gallery_images:
   - data_tiktok_report5.jpg
 ---
 
-[![DOI:10.56465/ddoslab.2022.001](http://img.shields.io/badge/DOI-10.56465/ddoslab.2022.001-FFB351.svg height="20")](https://dx.doi.org/10.56465/ddoslab.2022.001)
+[![DOI:10.56465/ddoslab.2022.001 height="20"](http://img.shields.io/badge/DOI-10.56465/ddoslab.2022.001-FFB351.svg)](https://dx.doi.org/10.56465/ddoslab.2022.001)
 
 ![](/images/data_tiktok_report.jpg)
 
