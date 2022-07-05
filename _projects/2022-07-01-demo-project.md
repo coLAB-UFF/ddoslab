@@ -13,10 +13,6 @@ gallery_images:
   - data_tiktok_report5.jpg
 ---
 
-[![DOI:10.56465/ddoslab.2022.001](http://img.shields.io/badge/DOI-10.56465/ddoslab.2022.001-FFB351.svg)](https://dx.doi.org/10.56465/ddoslab.2022.001)
-
-<a href="https://dx.doi.org/10.56465/ddoslab.2022.001"><img src="http://img.shields.io/badge/DOI-10.56465/ddoslab.2022.001-FFB351.svg" alt="DOI:10.56465/ddoslab.2022.001" style="width: 200px; margin: 0px; max-width: none;"></a>
-
 ![](/images/data_tiktok_report.jpg)
 
 Como políticos de direita e de esquerda utilizam o TikTok no Brasil? Quais são as suas principais estratégias de comunicação política e em que resultados isso se reverte em termos de engajamento? Direita e esquerda assumem comportamentos distintos na plataforma? Os conteúdos publicados por políticos no TikTok são mesmo apolíticos? Essas são algumas das questões que este relatório procura responder.
@@ -65,17 +61,19 @@ Diagramação: **Daniel Rios**
 
 ### Como citar este relatório
 
-Em estudos acadêmicos:
+* Em estudos acadêmicos:
 
 ```
 CHAGAS, V.; STEFANO, L. TikTok e polarização política no Brasil. Niterói: coLAB/UFF, 2022. 66 p. (Série DDoS Lab). doi:10.56465/ddoslab.2022.001
 ```
 
-Na imprensa e em outras fontes:
+* Na imprensa e em outras fontes:
 
 ```
 Relatório "TikTok e Polarização Política no Brasil", de autoria de Viktor Chagas e Luiza de Mello Stefano, pesquisadores do Laboratório de Pesquisa em Comunicação, Culturas Políticas e Economia da Colaboração (coLAB) da Universidade Federal Fluminense.
 ```
+
+<a href="https://dx.doi.org/10.56465/ddoslab.2022.001"><img src="http://img.shields.io/badge/DOI-10.56465/ddoslab.2022.001-FFB351.svg" alt="DOI:10.56465/ddoslab.2022.001" style="width: 200px; margin: 0px; max-width: none;"></a>
 
 ---
 
@@ -86,8 +84,10 @@ Here's a really neat custom feature we added – galleries:
 {% include post-components/gallery.html
 	columns = 2
 	full_width = true
-	images = "/images/demo.jpg,/images/demo.jpg,/images/demo.jpg,/images/demo.jpg,
-	"
+	images = "https://raw.githubusercontent.com/coLAB-UFF/ddoslab/main/images/projects/data_tiktok_report2.jpg,
+	https://raw.githubusercontent.com/coLAB-UFF/ddoslab/main/images/projects/data_tiktok_report3.jpg,
+	https://raw.githubusercontent.com/coLAB-UFF/ddoslab/main/images/projects/data_tiktok_report4.jpg,
+	https://raw.githubusercontent.com/coLAB-UFF/ddoslab/main/images/projects/data_tiktok_report5.jpg"
 %}
 
 Inspired by the Galleries feature from WordPress, we've made it easy to create grid layouts for your images. Just use a simple Liquid snippet in your post to create a masonry grid image layout:
@@ -97,8 +97,10 @@ Inspired by the Galleries feature from WordPress, we've made it easy to create g
 {% include post-components/gallery.html
 	columns = 2
 	full_width = true
-	images = "/images/demo.jpg,/images/demo.jpg,/images/demo.jpg,/images/demo.jpg,
-	"
+	images = "https://raw.githubusercontent.com/coLAB-UFF/ddoslab/main/images/projects/data_tiktok_report2.jpg,
+	https://raw.githubusercontent.com/coLAB-UFF/ddoslab/main/images/projects/data_tiktok_report3.jpg,
+	https://raw.githubusercontent.com/coLAB-UFF/ddoslab/main/images/projects/data_tiktok_report4.jpg,
+	https://raw.githubusercontent.com/coLAB-UFF/ddoslab/main/images/projects/data_tiktok_report5.jpg"
 %}
 ```
 {% endraw %}
