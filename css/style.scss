@@ -182,3 +182,5 @@ $baseurl: '{{ site.baseurl }}';
 
 @import "_includes/_section__listing";
 @import "_includes/_section__hero";
+
+img[alt=DOI:10.56465/ddoslab.2022.001] { width: 200px; }
