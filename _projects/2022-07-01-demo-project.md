@@ -25,6 +25,8 @@ Como políticos de direita e de esquerda utilizam o TikTok no Brasil? Quais são
 
 Este relatório se baseia em uma amostra composta por 23.139 vídeos publicados por 264 perfis de políticos no TikTok. Os dados coletados se referem ao período entre outubro de 2018 e março de 2022, quando se encerrou o prazo de desincompatibilização de cargos, segundo o calendário do Tribunal Superior Eleitoral (TSE). O estudo procura avaliar como os políticos utilizam e incorporam o TikTok em suas respectivas estratégias de comunicação política, que tipo de conteúdo produzem, e que resultados concretos, em termos de alcance e engajamento, eles obtêm. Muito se comenta a respeito das diferenças de apropriação de plataformas digitais por políticos de esquerda e de direita. O estudo procura abordar também essa distinção, apresentando dados empíricos que sustentam que o campo conservador-reacionário tem empregado mais e melhor o TikTok para alcançar maior visibilidade e despertar mais engajamento do público.
 
+> Os políticos de direita fazem uso mais frequente de uma linguagem apolítica e repleta de referências ao universo do entretenimento e do humor, incluindo as próprias *trends* da plataforma. 
+
 Analisar como direita e esquerda utilizam o TikTok pode elucidar uma série de aspectos relacionados às estratégias de adoção de plataformas digitais por atores políticos. Entre os principais resultados alcançados por este estudo, destacam-se:
 
 |                  |         |
@@ -41,13 +43,19 @@ Analisar como direita e esquerda utilizam o TikTok pode elucidar uma série de a
 
 ### Notas Metodológicas
 
-Ooo
+Este estudo mapeou, entre outubro de 2018 e março de 2022 – antes de findo o prazo de desincompatibilização de cargos segundo o calendário do Tribunal Superior Eleitoral (TSE) –, políticos brasileiros com conta no TikTok. Os dados foram raspados durante sessão de navegação do TikTok e tratado por meio de linguagem R.
+
+O mapeamento foi realizado a partir de três técnicas distintas. Em primeiro lugar, partiu-se de uma lista fechada, com os nomes de políticos que ocupam cargos no Executivo e no Legislativo Federal. Foram considerados apenas os cargos de primeiro escalão, como presidente, ministros, secretários nacionais, senadores e deputados no exercício de seus mandatos. Além desses, levantou-se, também por meio de lista fechada, os nomes dos governadores das 26 unidades federativas e do Distrito Federal.
+
+Em seguida, identificadas as contas existentes, procedeu-se uma bola-de-neve, rastreando-se, por meio dos usuários seguidos (*following accounts*), todos aqueles que correspondessem a atores políticos em qualquer nível: deputados estaduais ou distritais, secretários estaduais, prefeitos, vereadores e assessores especiais.
+
+Na terceira e última fase do levantamento, foram adicionados políticos que não ocupam cargos eletivos no presente momento, mas são pré-candidatos a cargos majoritários e possuem lugar de destaque na cena política nacional. Com estes procedimentos, chegou-se a um total de 300 políticos com conta no TikTok, dos quais 265 (88,3%) mantêm contas ativas. Esses 265 políticos foram responsáveis pela publicação de 23.139 vídeos no total.
 
 ---
 
 ### Créditos
 
-Autores: **Viktor Chagas**<a href="https://orcid.org/0000-0002-1806-6062"><img alt="ORCID logo" style="width: 16px; height: 16px; max-width: none; display: inline; margin: 5px 0;" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png" width="16" height="16" />&nbsp;</a> e **Luiza de Mello Stefano**<a href="https://orcid.org/0000-0002-3250-8437"><img alt="ORCID logo" style="width: 16px; height: 16px; max-width: none; display: inline; margin: 5px 0;" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png" width="16" height="16" />&nbsp;</a>
+Autores: **Viktor Chagas**<a href="https://orcid.org/0000-0002-1806-6062"><img alt="ORCID logo" style="width: 16px; height: 16px; max-width: none; display: inline; margin: 5px 0;" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png" width="16" height="16" /></a> e **Luiza de Mello Stefano**<a href="https://orcid.org/0000-0002-3250-8437"><img alt="ORCID logo" style="width: 16px; height: 16px; max-width: none; display: inline; margin: 5px 0;" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png" width="16" height="16" /></a>
 
 Ilustrações: **Daniel Rios**
 
@@ -61,11 +69,13 @@ Diagramação: **Daniel Rios**
 
 ### Como citar este relatório
 
+
 * Em estudos acadêmicos:
 
 ```
 CHAGAS, V.; STEFANO, L. TikTok e polarização política no Brasil. Niterói: coLAB/UFF, 2022. 66 p. (Série DDoS Lab). doi:10.56465/ddoslab.2022.001
 ```
+
 
 * Na imprensa e em outras fontes:
 
@@ -87,5 +97,3 @@ Relatório "TikTok e Polarização Política no Brasil", de autoria de Viktor Ch
 	https://raw.githubusercontent.com/coLAB-UFF/ddoslab/main/images/projects/data_tiktok_report4.jpg,
 	https://raw.githubusercontent.com/coLAB-UFF/ddoslab/main/images/projects/data_tiktok_report5.jpg"
 %}
-
----
