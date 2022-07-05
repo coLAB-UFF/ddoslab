@@ -77,9 +77,7 @@ Relatório "TikTok e Polarização Política no Brasil", de autoria de Viktor Ch
 
 ---
 
-#### Image galleries
-
-Here's a really neat custom feature we added – galleries:
+#### Imagens em Destaque
 
 {% include post-components/gallery.html
 	columns = 2
@@ -90,35 +88,4 @@ Here's a really neat custom feature we added – galleries:
 	https://raw.githubusercontent.com/coLAB-UFF/ddoslab/main/images/projects/data_tiktok_report5.jpg"
 %}
 
-Inspired by the Galleries feature from WordPress, we've made it easy to create grid layouts for your images. Just use a simple Liquid snippet in your post to create a masonry grid image layout:
-
-{% raw %}
-```liquid
-{% include post-components/gallery.html
-	columns = 2
-	full_width = true
-	images = "https://raw.githubusercontent.com/coLAB-UFF/ddoslab/main/images/projects/data_tiktok_report2.jpg,
-	https://raw.githubusercontent.com/coLAB-UFF/ddoslab/main/images/projects/data_tiktok_report3.jpg,
-	https://raw.githubusercontent.com/coLAB-UFF/ddoslab/main/images/projects/data_tiktok_report4.jpg,
-	https://raw.githubusercontent.com/coLAB-UFF/ddoslab/main/images/projects/data_tiktok_report5.jpg"
-%}
-```
-{% endraw %}
-
-*See what we did there? Code and syntax highlighting is built-in too!*
-
-Change the number inside the 'columns' setting to create different types of gallery for all kinds of purposes. You can even click on each image to seamlessly enlarge it on the page.
-
-
-#### Image carousels
-
-Here's another gallery with only one column, which creates a carousel slide-show instead.
-
-A nice little feature: the carousel only advances when it is in view, so your visitors won't scroll down to find it half way through your images.
-
-{% include post-components/gallery.html
-	columns = 1
-	full_width = true
-	images = "/images/demo.jpg,/images/demo.jpg,/images/demo.jpg
-	"
-%}
+---
