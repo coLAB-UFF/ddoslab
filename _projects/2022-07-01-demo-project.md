@@ -50,8 +50,8 @@ Ooo
 ### Créditos
 
 Autores: **Viktor Chagas**<a href="https://orcid.org/0000-0002-1806-6062">
-<img alt="ORCID logo" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png" width="16" height="16" /></a> e **Luiza de Mello Stefano**<a href="https://orcid.org/0000-0002-3250-8437">
-<img alt="ORCID logo" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png" width="16" height="16" /></a>
+<img alt="ORCID logo" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png" width="16" height="16" />&nbsp;</a> e **Luiza de Mello Stefano**<a href="https://orcid.org/0000-0002-3250-8437">
+<img alt="ORCID logo" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png" width="16" height="16" />&nbsp;</a>
 Ilustrações: **Daniel Rios**
 Diagramação: **Daniel Rios**
 
