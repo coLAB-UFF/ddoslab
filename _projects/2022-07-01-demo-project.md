@@ -3,20 +3,21 @@ title: TikTok e Polarização Política
 subtitle: TikTok e Polarização Política. Relatório de Viktor Chagas e Luiza de Mello Stefano
 date: 2022-07-01 00:00:00
 description: Este relatório analisa como os políticos utilizam e incorporam o TikTok em suas respectivas estratégias de comunicação política, que tipo de conteúdo produzem, e que resultados concretos, em termos de alcance e engajamento, eles obtêm, bem como as diferenças de apropriação entre políticos de esquerda e de direita.
-featured_image: data_tiktok_report.png
+featured_image: data_tiktok_report.jpg
 accent_color: '#FFB351'
 gallery_images:
-  - data_tiktok_report.png
-  - data_tiktok_report2.png
-  - data_tiktok_report3.png
-  - data_tiktok_report4.png
+  - data_tiktok_report.jpg
+  - data_tiktok_report2.jpg
+  - data_tiktok_report3.jpg
+  - data_tiktok_report4.jpg
+  - data_tiktok_report5.jpg
 ---
 
 This page is a demo that shows everything you can do inside portfolio and blog posts.
 
 We've included everything you need to create engaging posts about your work, and show off your case studies in a beautiful way.
 
-![](/images/data_tiktok_report.png)
+![](/images/data_tiktok_report.jpg)
 
 **Obviously,** we’ve styled up *all the basic* text formatting options [available in markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).
 
