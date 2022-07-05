@@ -13,9 +13,9 @@ gallery_images:
   - data_tiktok_report5.jpg
 ---
 
-[![DOI:10.56465/ddoslab.2022.001](http://img.shields.io/badge/DOI-10.56465/ddoslab.2022.001-FFB351.svg)](https://dx.doi.org/10.56465/ddoslab.2022.001)
+[![DOI:10.56465/ddoslab.2022.001](http://img.shields.io/badge/DOI-10.56465/ddoslab.2022.001-FFB351.svg#class1)](https://dx.doi.org/10.56465/ddoslab.2022.001)
 
-![](/images/data_tiktok_report.jpg)
+![](/images/data_tiktok_report.jpg#class2)
 
 Como políticos de direita e de esquerda utilizam o TikTok no Brasil? Quais são as suas principais estratégias de comunicação política e em que resultados isso se reverte em termos de engajamento? Direita e esquerda assumem comportamentos distintos na plataforma? Os conteúdos publicados por políticos no TikTok são mesmo apolíticos? Essas são algumas das questões que este relatório procura responder.
 
