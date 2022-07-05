@@ -15,11 +15,25 @@ gallery_images:
 
 ![](/images/data_tiktok_report.jpg)
 
-> Como políticos de direita e de esquerda utilizam o TikTok no Brasil? Quais são as suas principais estratégias de comunicação política e em que resultados isso se reverte em termos de engajamento? Direita e esquerda assumem comportamentos distintos na plataforma? Os conteúdos publicados por políticos no TikTok são mesmo apolíticos? Essas são algumas das questões que este relatório procura responder.
+Como políticos de direita e de esquerda utilizam o TikTok no Brasil? Quais são as suas principais estratégias de comunicação política e em que resultados isso se reverte em termos de engajamento? Direita e esquerda assumem comportamentos distintos na plataforma? Os conteúdos publicados por políticos no TikTok são mesmo apolíticos? Essas são algumas das questões que este relatório procura responder.
 
 <a href="https://dx.doi.org/10.56465/ddoslab.2022.001" class="button--fill">Ler o relatório completo</a>
 
 [![DOI:10.56465/ddoslab.2022.001](http://img.shields.io/badge/DOI-10.56465/ddoslab.2022.001-FFB351.svg)](https://dx.doi.org/10.56465/ddoslab.2022.001)
+
+
+
+Este relatório se baseia em uma amostra composta por 23.139 vídeos publicados por 264 perfis de políticos no TikTok. Os dados coletados se referem ao período entre outubro de 2018 e março de 2022, quando se encerrou o prazo de desincompatibilização de cargos, segundo o calendário do Tribunal Superior Eleitoral (TSE). O estudo procura avaliar como os políticos utilizam e incorporam o TikTok em suas respectivas estratégias de comunicação política, que tipo de conteúdo produzem, e que resultados concretos, em termos de alcance e engajamento, eles obtêm. Muito se comenta a respeito das diferenças de apropriação de plataformas digitais por políticos de esquerda e de direita. O estudo procura abordar também essa distinção, apresentando dados empíricos que sustentam que o campo conservador-reacionário tem empregado mais e melhor o TikTok para alcançar maior visibilidade e despertar mais engajamento do público.
+
+[![DOI:10.1101/2021.01.08.425840](http://img.shields.io/badge/DOI-10.1101/2021.01.08.425840-B31B1B.svg)](https://doi.org/10.1101/2021.01.08.425840)
+
+Analisar como direita e esquerda utilizam o TikTok pode elucidar uma série de aspectos relacionados às estratégias de adoção de plataformas digitais por atores políticos. Entre os principais resultados alcançados por este estudo, destacam-se:
+
+| Item                 | Author        |
+|----------------------|---------------|
+| Duet Jekyll Theme    | Jekyll Themes |
+| Index Jekyll Theme   | Jekyll Themes |
+| Journal Jekyll Theme | Jekyll Themes |
 
 This page is a demo that shows everything you can do inside portfolio and blog posts.
 
