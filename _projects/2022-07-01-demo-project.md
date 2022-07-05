@@ -21,6 +21,8 @@ Como políticos de direita e de esquerda utilizam o TikTok no Brasil? Quais são
 
 <a href="https://dx.doi.org/10.56465/ddoslab.2022.001" class="button--fill">Ler o relatório completo</a>
 
+---
+
 ### Sumário Executivo
 
 Este relatório se baseia em uma amostra composta por 23.139 vídeos publicados por 264 perfis de políticos no TikTok. Os dados coletados se referem ao período entre outubro de 2018 e março de 2022, quando se encerrou o prazo de desincompatibilização de cargos, segundo o calendário do Tribunal Superior Eleitoral (TSE). O estudo procura avaliar como os políticos utilizam e incorporam o TikTok em suas respectivas estratégias de comunicação política, que tipo de conteúdo produzem, e que resultados concretos, em termos de alcance e engajamento, eles obtêm. Muito se comenta a respeito das diferenças de apropriação de plataformas digitais por políticos de esquerda e de direita. O estudo procura abordar também essa distinção, apresentando dados empíricos que sustentam que o campo conservador-reacionário tem empregado mais e melhor o TikTok para alcançar maior visibilidade e despertar mais engajamento do público.
@@ -37,45 +39,30 @@ Analisar como direita e esquerda utilizam o TikTok pode elucidar uma série de a
 | Políticos de esquerda tendem a valorizar mais conteúdos de natureza estritamente política, ao passo que políticos de direita fazem uso de uma retórica mais voltada para o entretenimento e o humor, desviando-se frequentemente de pautas públicas | Políticos de direita não parecem fazer muito investimento para receber mais curtidas em seus conteúdos. Por outro lado, eles costumam acumular um número bastante superior de visualizações, o que pode sugerir um papel ativo da filtragem algorítmica e do sistema de recomendações do TikTok ao indicar tais conteúdos aos usuários |
 | O relatório ainda analisou qualitativamente o perfil de quatro políticos com altos índices de engajamento no TikTok, dois de esquerda e dois de direita, a saber: Manuela d'Ávila e Carlos Zarattini; e Tiririca e Renan Bolsonaro.   | Tiririca é líder absoluto em diferentes métricas de engajamento da plataforma. Seu perfil, porém, não apresenta qualquer referência à sua atuação como deputado federal e se concentra na trajetória enquanto humorista |
 
-This page is a demo that shows everything you can do inside portfolio and blog posts.
+---
 
-We've included everything you need to create engaging posts about your work, and show off your case studies in a beautiful way.
+### Notas Metodológicas
 
-![](/images/data_tiktok_report.jpg)
 
-**Obviously,** we’ve styled up *all the basic* text formatting options [available in markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).
 
-You can create lists:
 
-* Simple bulleted lists
-* Like this one
-* Are cool
+### Créditos
 
-And:
+Autores: **Viktor Chagas**<a href="https://orcid.org/0000-0001-5727-2427">
+<img alt="ORCID logo" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png" width="16" height="16" />
+https://orcid.org/0000-0001-2345-6789
+</a> e **Luiza de Mello Stefano**<a href="https://orcid.org/0000-0001-5727-2427">
+<img alt="ORCID logo" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png" width="16" height="16" />
+https://orcid.org/0000-0001-2345-6789
+</a>
+Ilustrações: **Daniel Rios**
+Diagramação: **Daniel Rios**
 
-1. Numbered lists
-2. Like this other one
-3. Are great too
+**Viktor Chagas** é professor associado do Departamento de Estudos Culturais e Mídia e pesquisador do Programa de Pós-Graduação em Comunicação da Universidade Federal Fluminense (PPGCOM-UFF). É bolsista de produtividade em pesquisa (PQ-2) do Conselho Nacional de Desenvolvimento Científico e Tecnológico (CNPq) e bolsista Jovem Cientista do Nosso Estado da Fundação Carlos Chagas Filho de Amparo à Pesquisa do Estado do Rio de Janeiro (Faperj). É membro associado do Instituto Nacional de Ciência e Tecnologia em Democracia Digital (INCT.DD). Foi bolsista CNPq de Pós-Doutorado Junior em Comunicação e Cultura pela UFBA. Doutor em História, Política e Bens Culturais pelo Centro de Pesquisa e Documentação de História Contemporânea do Brasil da Fundação Getúlio Vargas (Cpdoc-FGV).
 
-You can also add blockquotes, which are shown at a larger width to help break up the layout and draw attention to key parts of your content:
+**Luiza de Mello** Stefano é doutoranda no Programa de Pós-Graduação em Comunicação da Universidade Federal Fluminense (UFF). Mestre em Comunicação pelo PPGCOM/UFJF (2019). Jornalista formada pela Universidade Federal de Juiz de Fora (2015). Especialista em Comunicação e Marketing em Mídias Digitais. Pesquisadora associada dos grupos de pesquisa TeleVisões e Laboratório de Comunicação, Culturas Políticas e Economia da Colaboração (coLAB).
 
-> “Simple can be harder than complex: You have to work hard to get your thinking clean to make it simple. But it’s worth it in the end because once you get there, you can move mountains.”
 
-The theme also supports markdown tables:
-
-| Item                 | Author        | Supports tables? | Price |
-|----------------------|---------------|------------------|-------|
-| Duet Jekyll Theme    | Jekyll Themes | Yes              | $49   |
-| Index Jekyll Theme   | Jekyll Themes | Yes              | $49   |
-| Journal Jekyll Theme | Jekyll Themes | Yes              | $49   |
-
-And footnotes[^1], which link to explanations[^2] at the bottom of the page[^3].
-
-[^1]: Beautiful modern, minimal theme design.
-[^2]: Powerful features to show off your work.
-[^3]: Maintained and supported by the theme developer.
-
-You can throw in some horizontal rules too:
 
 ---
 
@@ -120,19 +107,3 @@ A nice little feature: the carousel only advances when it is in view, so your vi
 	images = "/images/demo.jpg,/images/demo.jpg,/images/demo.jpg
 	"
 %}
-
-#### What about videos?
-
-Videos are an awesome way to show off your work in a more engaging and personal way, and we’ve made sure they work great on our themes. Just paste an embed code from YouTube or Vimeo, and the theme makes sure it displays perfectly:
-
-{% include post-components/video.html
-	url = "https://player.vimeo.com/video/270725085?color=6c6e95&title=0&byline=0"
-	full_width = true
-%}
-
-### Pretty cool, huh?
-
-We've packed this theme with powerful features to show off your work.
-Why not put them to use on your new website?
-
-<a href="https://jekyllthemes.io/theme/made-portfolio-jekyll-theme" class="button--fill">Get This Theme</a>
