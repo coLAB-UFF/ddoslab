@@ -10,7 +10,7 @@ menu_settings:
   menu_items:
     - title: 'Relatórios'
       url: '/'
-    - title: 'Datasets'
+    - title: 'Artigos'
       url: '/blog/'
 
 footer_settings:
