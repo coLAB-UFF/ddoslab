@@ -92,7 +92,7 @@ vertical-align: top; font-size: 0;">
 </div><div style="width: 50%;
 min-width: 250px;
 display: inline-block;
-vertical-align: top; font-size: 0;">
+vertical-align: top; font-size: 0; float: right; margin-top: 50px;">
 <a href="https://dx.doi.org/10.56465/ddoslab.2022.001"><img src="http://img.shields.io/badge/DOI-10.56465/ddoslab.2022.001-FFB351.svg" alt="DOI:10.56465/ddoslab.2022.001" style="width: 200px; margin: 0px; max-width: none;"></a>
 </div>
 
