@@ -83,12 +83,18 @@ CHAGAS, V.; STEFANO, L. TikTok e polarização política no Brasil. Niterói: co
 Relatório "TikTok e Polarização Política no Brasil", de autoria de Viktor Chagas e Luiza de Mello Stefano, pesquisadores do Laboratório de Pesquisa em Comunicação, Culturas Políticas e Economia da Colaboração (coLAB) da Universidade Federal Fluminense.
 ```
 
- <script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
-
+<div style="width: 50%;
+min-width: 250px;
+display: inline-block;
+vertical-align: top">
+<script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
 <div data-badge-type="medium-donut" data-doi="10.56465/ddoslab.2022.001" data-condensed="true" data-hide-no-mentions="true" data-hide-less-than="10" class="altmetric-embed"></div>
-
-
+</div><div style="width: 50%;
+min-width: 250px;
+display: inline-block;
+vertical-align: top">
 <a href="https://dx.doi.org/10.56465/ddoslab.2022.001"><img src="http://img.shields.io/badge/DOI-10.56465/ddoslab.2022.001-FFB351.svg" alt="DOI:10.56465/ddoslab.2022.001" style="width: 200px; margin: 0px; max-width: none;"></a>
+</div>
 
 ---
 
