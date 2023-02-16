@@ -1,6 +1,6 @@
 ---
-title: Violência Política de Gênero em Plataformas Digitais
-subtitle: Violência Política de Gênero em Plataformas Digitais. Relatório de Letícia Sabbatini, Viktor Chagas, Vinicius Machado Miguel, Gabriela Rezende Pereira e Sabrina Dray
+title: Mapa da Violência Política de Gênero em Plataformas Digitais
+subtitle: Mapa da Violência Política de Gênero em Plataformas Digitais. Relatório de Letícia Sabbatini, Viktor Chagas, Vinicius Machado Miguel, Gabriela Rezende Pereira e Sabrina Dray
 date: 2023-02-15 00:00:00
 description: Como a violência política de gênero atinge as parlamentares mulheres brasileiras? Quais são as plataformas digitais com maior e menor incidência de violência discursiva contra representantes políticas mulheres no Brasil? Que representantes são mais atacadas e por que razões? Como se dão esses ataques? Essas são algumas das questões que este relatório procura responder.
 featured_image: data_genderviolence_report.png
