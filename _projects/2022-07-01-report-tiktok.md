@@ -19,7 +19,7 @@ Como políticos de direita e de esquerda utilizam o TikTok no Brasil? Quais são
 
 <a href="http://colab.uff.br/ddoslab/ddoslab_report_001_tiktok.pdf" class="button--fill">Ler o relatório completo</a>
 
-
+<embed src="https://github.com/coLAB-UFF/ddoslab/blob/main/_reports/ddoslab_report_001_tiktok.pdf" type="application/pdf" />
 
 ---
 
