@@ -19,7 +19,7 @@ gallery_images:
 
 Como a violência política de gênero atinge as parlamentares mulheres brasileiras? Quais são as plataformas digitais com maior e menor incidência de violência discursiva contra representantes políticas mulheres no Brasil? Que representantes são mais atacadas e por que razões? Como se dão esses ataques? Essas são algumas das questões que este relatório procura responder.
 
-<a href="http://colab.uff.br/ddoslab/ddoslab_report_002_genderviolence.pdf" class="button--fill">Ler o relatório completo</a>
+<a href="https://drive.google.com/file/d/1SmU5KkT140gCdtgmjcHE7X0iO_qp7d6u/view?usp=sharing" class="button--fill">Ler o relatório completo</a>
 
 ---
 
