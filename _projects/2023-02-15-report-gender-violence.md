@@ -48,6 +48,16 @@ Entre os principais resultados alcançados por este relatório, encontram-se os 
 
 ---
 
+### Talíria Petrone, deputada federal, sobre o relatório
+
+"O que esse excelente estudo nos traz é a constatação de como as principais plataformas digitais viraram arenas de disseminação do discurso de ódio e da desinformação. Estamos saindo de um período dramático da nossa história em que a violência política ganhou contornos gravíssimos, aliado ao fato de que as forças que estavam no comando do país financiavam a máquina de mentiras e de ataques à nossa existência. Estamos indo para o quinto ano do assassinato da nossa companheira e amiga Marielle Franco, portanto a violência política de gênero não é uma novidade. E quando o estudo nos mostra que nós, deputadas e senadoras de esquerda, somos duas vezes mais atacadas do que as parlamentares da direita, confirma também o espaço destacado que o discurso de ódio teve nos quatro anos de governo Bolsonaro. 
+
+> Enfrento a tentativa de silenciamento da minha voz e do meu corpo político desde antes do meu mandato de deputada federal, o que se acirrou nos últimos anos. Isso é parte da conclusão de que, dos alvos nominais da violência política de gênero, fui a parlamentar mais atacada nas redes sociais. Um tipo de violência que também anda junto com outra constatação pelo estudo: a maioria das ofensas são insultos e invalidação da nossa capacidade de atuar como parlamentar.
+
+Esses e todos os outros dados trazidos pelo estudo mostram que é urgente uma política de regulação das plataformas, que efetivamente fortaleça a democracia e freie os discursos de ódios e a desinformação. Sigo resistindo, ao lado de tantas outras companheiras também constantemente atacadas pela misoginia, a intolerância e o racismo. Não nos silenciarão nem nas redes sociais, e muito menos nas ruas e na tribuna das casas legislativas".
+
+---
+
 ### Notas Metodológicas
 
 Este estudo mapeou, entre julho e dezembro de 2021, período não eleitoral, e correspondente à 56ª legislatura federal, conteúdos publicados em quatro diferentes plataformas digitais – a saber, Facebook, Instagram, Twitter e YouTube – que faziam menção direta ou indireta a mulheres ocupantes de cargos públicos e no exercício de funções políticas. Para fins de simplificação, optou-se por trabalhar somente com parlamentares incumbidas de mandatos no âmbito federal durante o período de análise, e que possuíam conta ativa em pelo menos uma das quatro referidas plataformas, o que resultou em um total de 91 nomes, sendo 79 deputadas federais e 12 senadoras.
