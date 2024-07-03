@@ -12,6 +12,8 @@ menu_settings:
       url: '/'
     - title: 'Artigos'
       url: '/blog/'
+    - title: 'Sobre o coLAB'
+      url: 'https://colab-uff.github.io/'
 
 footer_settings:
   logo_image: 
